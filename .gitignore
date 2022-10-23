@@ -1,4 +1,3 @@
-../vens/
-/vens/
+venvs/
 .idea/
 .vscode/
